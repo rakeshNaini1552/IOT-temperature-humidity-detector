@@ -1,6 +1,6 @@
 # IOT-temperature-humidity-detector
 
-Sure, here are step-by-step instructions for a naive user to run the provided code:
+Here are step-by-step instructions for a naive user to run the provided code:
 
 ### Running the Flask Server (`server.py`):
 
